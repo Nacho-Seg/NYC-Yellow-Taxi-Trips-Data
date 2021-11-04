@@ -1,5 +1,5 @@
 # NYC-Yellow-Taxi-Trips-Data
-create a csv with the return of all the trips over 0.9 percentile in distance traveled for any NYC-Yellow-Taxi.
+The algorithm creates a csv with the return of all the trips over 0.9 percentile in distance traveled for any NYC-Yellow-Taxi.
 
 ## Components
 
